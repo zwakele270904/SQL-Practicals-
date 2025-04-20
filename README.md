@@ -1,2 +1,4 @@
 # SQL-Practicals-
 SQL code and problems
+
+- SQL QUERIES - THIS FILE HAS SQL QUERIES FOR  SQL  PRACTICAL 1
