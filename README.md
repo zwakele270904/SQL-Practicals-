@@ -4,6 +4,6 @@ SQL code and problems
 ## Practical 1 folder 
 - PRACTICAL 1 SQL QUERIES - THIS FILE HAS SQL QUERIES PROBLEMS  FOR  SQL  PRACTICAL 1
 
-  ## Practical 2 folder
+## Practical 2 folder
 - PRACTICAL 2 SQL JOINS - THIS FILE CONTAINS SQL JOINS PROBLEMS FOR SQL  PRACTICAL 2
  
